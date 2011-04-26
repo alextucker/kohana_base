@@ -1,1 +1,3 @@
-This skeleton project contains a little more than koahan_core. It includes base header and footer views based on html5boilerplate, base css, and the environmentswitching code that I like.
+# Kohana PHP Framework, version 3.0 (dev)
+
+This is the current development version of [Kohana](http://kohanaframework.org/).
